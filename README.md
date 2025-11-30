@@ -1,39 +1,61 @@
 # 👋 Hello! I'm Tej Sarisa
 
-**AI & Image Automation Engineer | Full-Stack Developer | FinTech Enthusiast**
+**Cloud Architect & DevOps Engineer | AWS/Azure Specialist | Infrastructure as Code Expert**
 
-Based in **India** | Building intelligent systems at the intersection of AI, finance, and visual computing
-
----
-
-## 🎯 About Me
-
-I'm passionate about leveraging **artificial intelligence** and **automation** to solve complex problems in financial technology and visual media. With expertise in full-stack development and AI-driven image processing, I'm committed to creating scalable, innovative solutions.
-
-- 🤖 Specializing in **AI image generation, editing, and automation**
-- 💰 Exploring **financial planning apps** and investment tech
-- 🔧 Full-stack developer proficient in modern web technologies
-- 📊 Interested in market analysis and fintech innovations
+Based in **India** | Building scalable cloud infrastructure and DevOps solutions
 
 ---
 
-## 💻 Tech Stack
+## ☁️ About Me
 
-**Languages:** JavaScript/TypeScript, Python, HTML, CSS
-**Frontend:** React, Vue.js, CSS3
-**Backend:** Node.js, Express
-**AI/ML:** Image processing, LLMs, AI prompt engineering
-**Finance:** Financial planning apps, market analysis tools
-**Tools:** Git, GitHub, VS Code, Figma, Adobe Suite
+I'm passionate about designing and implementing robust cloud architectures, automating infrastructure deployment, and optimizing cloud costs. With expertise in AWS, Azure, and Kubernetes, I'm committed to building scalable, secure, and cost-efficient cloud solutions.
+
+- ☁️ Specializing in **cloud architecture design** (multi-tier, serverless, hybrid)
+- 🔧 Expert in **Infrastructure as Code** (Terraform, CloudFormation, ARM templates)
+- 📦 Hands-on with **containerization & orchestration** (Docker, Kubernetes, ECS)
+- 🚀 CI/CD automation and **DevOps pipelines** (GitHub Actions, Jenkins, GitLab CI)
+- 🔐 Cloud security best practices, **IAM, encryption, and compliance**
+- 💰 Cloud cost optimization and resource management
 
 ---
 
-## 📂 Featured Projects
+## 🏆 Cloud Expertise
 
-- **[Conversational AI Automation](https://github.com/TEJSARISA/conversationalAI-QAAutomation)** – Automated QA using conversational AI
-- **[Portfolio](https://github.com/TEJSARISA/tejsarisa.github.io)** – Personal website showcasing projects
-- **[Website](https://github.com/TEJSARISA/website)** – Modern web presence
-- **[AI & Image Projects](https://github.com/TEJSARISA?tab=repositories)** – Full repository collection
+**Cloud Platforms:** AWS (EC2, S3, Lambda, RDS, VPC, CloudWatch), Azure (VMs, App Services, AKS, SQL Database), GCP
+
+**Infrastructure & Automation:** Terraform, CloudFormation, ARM Templates, Ansible, Vagrant
+
+**Containerization:** Docker, Kubernetes, Docker Compose, Helm
+
+**CI/CD & DevOps:** GitHub Actions, Jenkins, GitLab CI, Azure Pipelines, ArgoCD
+
+**Monitoring & Logging:** Prometheus, Grafana, ELK Stack, CloudWatch, Application Insights
+
+**Scripting:** Bash, Python, PowerShell
+
+**Version Control:** Git, GitHub, GitLab
+
+---
+
+## 🎯 Core Competencies
+
+- Multi-cloud architecture design and implementation
+- Kubernetes cluster setup, management, and scaling
+- Serverless architecture (Lambda, Functions, Logic Apps)
+- Network design, security, and VPN/firewall configuration
+- Database optimization and disaster recovery
+- Infrastructure automation and configuration management
+- Microservices deployment and orchestration
+- Cloud security and compliance (SOC 2, ISO 27001)
+
+---
+
+## 📊 Featured Projects
+
+- **Cloud Infrastructure Automation** – Automated multi-environment deployment using Terraform
+- **Kubernetes Cluster Management** – Production-grade K8s setup with monitoring
+- **CI/CD Pipeline Optimization** – GitHub Actions for automated testing and deployment
+- **Serverless Application Architecture** – AWS Lambda-based microservices
 
 ---
 
@@ -41,16 +63,8 @@ I'm passionate about leveraging **artificial intelligence** and **automation** t
 
 - 💼 [LinkedIn](https://linkedin.com/in/tejsarisa)
 - 🌍 [Portfolio](https://tejsarisa.github.io)
-- 📧 Open to collaborations and exciting opportunities
+- 📧 Open to collaborations and cloud architecture consulting
 
 ---
 
-## 📈 GitHub Stats
-
-![Profile views](https://komarev.com/ghpvc/?username=TEJSARISA&color=0e76a8)
-
-**20+ contributions** · **11 repositories** · Focused on quality and impact
-
----
-
-*"Great things never come from comfort zones."* — Building tomorrow, today.
+*Passionate about building efficient, scalable, and secure cloud infrastructure for the future* 🚀
