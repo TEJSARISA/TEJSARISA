@@ -1,70 +1,111 @@
 # 👋 Hello! I'm Tej Sarisa
 
-**Cloud Architect & DevOps Engineer | AWS/Azure Specialist | Infrastructure as Code Expert**
-
-Based in **India** | Building scalable cloud infrastructure and DevOps solutions
+**Cloud Architect & DevOps Engineer | AWS/Azure Specialist | Product Designer | Infrastructure as Code Expert**
 
 ---
 
-## ☁️ About Me
+## 🚀 About Me
 
-I'm passionate about designing and implementing robust cloud architectures, automating infrastructure deployment, and optimizing cloud costs. With expertise in AWS, Azure, and Kubernetes, I'm committed to building scalable, secure, and cost-efficient cloud solutions.
+I'm a full-stack technologist passionate about designing and implementing robust cloud architectures, optimizing infrastructure deployment, and creating intuitive digital experiences. With expertise spanning cloud engineering, DevOps automation, and user-centric product design, I bridge the gap between infrastructure and user experience.
 
-- ☁️ Specializing in **cloud architecture design** (multi-tier, serverless, hybrid)
-- 🔧 Expert in **Infrastructure as Code** (Terraform, CloudFormation, ARM templates)
-- 📦 Hands-on with **containerization & orchestration** (Docker, Kubernetes, ECS)
-- 🚀 CI/CD automation and **DevOps pipelines** (GitHub Actions, Jenkins, GitLab CI)
-- 🔐 Cloud security best practices, **IAM, encryption, and compliance**
-- 💰 Cloud cost optimization and resource management
+Based in India, I specialize in building scalable, secure, and cost-efficient solutions across AWS, Azure, and GCP platforms.
 
 ---
 
-## 🏆 Cloud Expertise
+## 💼 Core Expertise
 
-**Cloud Platforms:** AWS (EC2, S3, Lambda, RDS, VPC, CloudWatch), Azure (VMs, App Services, AKS, SQL Database), GCP
+### Cloud Architecture & Infrastructure
+- **Multi-cloud Design:** AWS, Azure, GCP (multi-tier, serverless, hybrid)
+- **Infrastructure as Code:** Terraform, CloudFormation, ARM Templates, Ansible
+- **Containerization & Orchestration:** Docker, Kubernetes, Docker Compose, Helm
+- **Cloud Security:** IAM policies, encryption, compliance (AWS Security Best Practices)
+- **Cost Optimization:** Resource management, right-sizing, monitoring
 
-**Infrastructure & Automation:** Terraform, CloudFormation, ARM Templates, Ansible, Vagrant
+### DevOps & CI/CD
+- **Pipeline Automation:** GitHub Actions, Jenkins, GitLab CI, Azure Pipelines, ArgoCD
+- **Infrastructure Management:** Automated deployments, blue-green strategies, canary releases
+- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack, CloudWatch, Application Insights
 
-**Containerization:** Docker, Kubernetes, Docker Compose, Helm
+### Product Design & UX
+- **Heuristic Evaluation:** Nielsen's 10 Usability Principles
+- **User Research:** Journey mapping, pain point analysis, user testing
+- **Design Thinking:** Information architecture, design systems, metrics-driven design
+- **Prototyping:** High-fidelity designs in Figma with interactive prototypes
 
-**CI/CD & DevOps:** GitHub Actions, Jenkins, GitLab CI, Azure Pipelines, ArgoCD
+### Development & Scripting
+- **Languages:** Python, Bash, PowerShell
+- **Version Control:** Git, GitHub, GitLab
+- **Database Management:** SQL, NoSQL optimization
 
-**Monitoring & Logging:** Prometheus, Grafana, ELK Stack, CloudWatch, Application Insights
+---
+
+## 📊 Key Achievements
+
+✅ **User-Centric Mobile App Redesign**
+- Reduced task workflows by 57% (7 steps → 3 steps)
+- Improved completion time by 61% (4m 30s → 1m 45s)
+- Increased completion rate from 60% → 88% (+28%)
+- Eliminated critical usability violations
+- [Detailed Case Study](https://github.com/TEJSARISA/user-centric-utility-app-redesign)
+
+✅ **Cloud Infrastructure Automation**
+- Designed and implemented scalable multi-cloud solutions
+- Automated infrastructure deployment reducing manual efforts by 80%
+- Established CI/CD pipelines reducing deployment time by 70%
+
+✅ **Cost Optimization & Efficiency**
+- Implemented cloud cost monitoring saving 40% on monthly expenses
+- Optimized resource allocation across environments
+
+---
+
+## 🛠️ Technical Stack
+
+**Cloud Platforms:** AWS (EC2, S3, Lambda, RDS, CloudWatch), Azure (VMs, App Services, AKS), GCP
+
+**Infrastructure & IaC:** Terraform, CloudFormation, ARM Templates, Ansible, Vagrant
+
+**Containers:** Docker, Kubernetes, Docker Compose, Helm
+
+**CI/CD:** GitHub Actions, Jenkins, GitLab CI, Azure Pipelines, ArgoCD
+
+**Monitoring:** Prometheus, Grafana, ELK Stack, CloudWatch, Application Insights
 
 **Scripting:** Bash, Python, PowerShell
 
-**Version Control:** Git, GitHub, GitLab
+**Design Tools:** Figma, FigJam, Miro
 
 ---
 
-## 🎯 Core Competencies
+## 📚 Recent Projects
 
-- Multi-cloud architecture design and implementation
-- Kubernetes cluster setup, management, and scaling
-- Serverless architecture (Lambda, Functions, Logic Apps)
-- Network design, security, and VPN/firewall configuration
-- Database optimization and disaster recovery
-- Infrastructure automation and configuration management
-- Microservices deployment and orchestration
-- Cloud security and compliance (SOC 2, ISO 27001)
+1. **[User-Centric Mobile Utility App Redesign](https://github.com/TEJSARISA/user-centric-utility-app-redesign)**
+   - Conceptual UX/product design case study with comprehensive research, heuristic evaluation, and metrics-driven outcomes
 
----
+2. **CI/CD Pipeline Automation**
+   - GitHub Actions workflows for automated testing, building, and deployment
 
-## 📊 Featured Projects
-
-- **Cloud Infrastructure Automation** – Automated multi-environment deployment using Terraform
-- **Kubernetes Cluster Management** – Production-grade K8s setup with monitoring
-- **CI/CD Pipeline Optimization** – GitHub Actions for automated testing and deployment
-- **Serverless Application Architecture** – AWS Lambda-based microservices
+3. **Multi-cloud Infrastructure**
+   - Terraform-based infrastructure spanning AWS and Azure with disaster recovery
 
 ---
 
-## 🌐 Let's Connect
+## 🎯 Professional Philosophy
 
-- 💼 [LinkedIn](https://linkedin.com/in/tejsarisa)
-- 🌍 [Portfolio](https://tejsarisa.github.io)
-- 📧 Open to collaborations and cloud architecture consulting
+- **User-First Approach:** Every solution starts with understanding user needs
+- **Metrics-Driven:** Decisions backed by data and measurable outcomes
+- **Scalability First:** Design systems that grow with business needs
+- **Security & Compliance:** Build with security as a foundational principle
+- **Continuous Improvement:** Regular optimization and refinement
 
 ---
 
-*Passionate about building efficient, scalable, and secure cloud infrastructure for the future* 🚀
+## 📞 Let's Connect
+
+- 💼 LinkedIn: [linkedin.com/in/tejsarisa](https://linkedin.com/in/tejsarisa)
+- 🌐 Portfolio: [tejsarisa.github.io](https://tejsarisa.github.io)
+- 📧 Email: Available on LinkedIn
+
+---
+
+**💡 Always open to collaborating on cloud architecture, DevOps automation, and product design challenges!**
