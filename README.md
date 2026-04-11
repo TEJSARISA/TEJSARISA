@@ -107,8 +107,22 @@ I design scalable cloud infrastructure, automate delivery pipelines, and build f
 
 ## Certifications and Education
 
-- I have not added certifications or education details here yet because I only want to present **verified and exact information**.
-- Once finalized, this section should include my **top 2-3 strongest certifications** and my **degree / college / graduation year** for stronger internship and recruiter visibility.
+### Education
+
+- **Bachelor of Technology (B.Tech), Computer Science and Engineering**  
+  Lovely Professional University, Punjab, India  
+  Expected Graduation: **2026**
+
+### Certifications
+
+- **Microsoft Certified: Azure Administrator Associate** — Microsoft _(2025-2026)_
+- **Data Structures and Algorithms** — GeeksforGeeks _(2024)_
+- **GenAI for Everyone** — Coursera _(2024)_
+- **Prompt Engineering for ChatGPT** — Coursera _(2024)_
+- **Dynamic Programming, Greedy Algorithms** — Coursera _(2024)_
+- **Microsoft Azure AI Fundamentals (AI-900) Exam Prep** — Coursera
+
+These certifications strengthen my profile in **cloud computing, AI, problem solving, and software engineering**, and add stronger trust signals for recruiters, internship roles, and freelance opportunities.
 
 ## What I Am Open To
 
