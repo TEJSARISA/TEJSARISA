@@ -1,76 +1,131 @@
-# Hi, I'm Tej Sarisa
+<div align="center">
 
-**Cloud & DevOps Engineer | Full-Stack Builder | Product-Focused Problem Solver**
+# Tej Sarisa
 
-I build systems that are reliable in production and useful in the real world, with a focus on cloud infrastructure, deployment automation, full-stack product engineering, and clean user experience. My work sits at the intersection of architecture, DevOps, application development, and product thinking.
+### Cloud & DevOps Engineer | Full-Stack Builder | AI-Enabled Product Engineer
 
-Based in India, I enjoy turning ambitious ideas into portfolio-grade and deployment-shaped projects across cloud platforms, AI-enabled applications, and scalable web systems.
+I design scalable cloud infrastructure, automate delivery pipelines, and build full-stack products that are deployment-shaped, user-aware, and recruiter-ready.
 
-## What I Focus On
+[![Profile Views](https://komarev.com/ghpvc/?username=TEJSARISA&style=flat-square&color=2563eb)](https://github.com/TEJSARISA)
+[![GitHub followers](https://img.shields.io/github/followers/TEJSARISA?style=flat-square&color=0f172a)](https://github.com/TEJSARISA?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tej%20Sarisa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tejsarisa)
+[![Portfolio](https://img.shields.io/badge/Portfolio-tejsarisa.github.io-111827?style=flat-square&logo=google-chrome&logoColor=white)](https://tejsarisa.github.io)
 
-- Designing cloud-native and scalable infrastructure on AWS and related platforms
-- Building CI/CD pipelines, deployment automation, and infrastructure-as-code workflows
-- Developing full-stack products with strong backend structure and polished frontend UX
-- Exploring AI-powered applications with practical, grounded implementations
-- Turning rough concepts into recruiter-ready, demo-ready engineering projects
+</div>
+
+## About Me
+
+- I work across **cloud architecture, DevOps automation, full-stack engineering, and product-minded software development**.
+- My strongest public projects show a mix of **AWS infrastructure**, **CI/CD delivery**, **automation**, **AI-enabled applications**, and **user-focused product design**.
+- I enjoy building systems that are not just functional, but **well-documented, demo-ready, and easy to evaluate**.
+- Based in India and actively building a profile around **cloud, DevOps, full-stack systems, and practical AI products**.
+
+## Current Focus
+
+- Building portfolio-grade projects that combine **engineering depth + product quality**
+- Strengthening **cloud infrastructure** and **deployment automation** workflows
+- Shipping **full-stack applications** with strong backend structure and polished README documentation
+- Exploring **AI-assisted applications** with grounded, practical implementations
+
+## Tech Stack
+
+<div align="center">
+
+[![Tech Stack](https://skillicons.dev/icons?i=aws,azure,gcp,terraform,docker,kubernetes,githubactions,jenkins,python,bash,nodejs,react,postgres,redis,git)](https://skillicons.dev)
+
+</div>
+
+## Skills Snapshot
+
+| Area | Tools and Focus |
+| --- | --- |
+| Cloud | AWS, Azure, GCP, VPC design, IAM, scalable deployment architecture |
+| Infrastructure as Code | Terraform, CloudFormation, scripted provisioning, reproducible environments |
+| DevOps | GitHub Actions, Jenkins, CI/CD workflows, deployment automation, environment setup |
+| Containers | Docker, Docker Compose, Kubernetes, Helm |
+| Full-Stack | React, Node.js, Express, API design, PostgreSQL, Prisma, Redis |
+| Automation | Python, Bash, PowerShell, Linux operations, maintenance tooling |
+| Product Thinking | UX improvement, information architecture, workflow simplification, documentation quality |
 
 ## Featured Projects
 
-| Project | What it shows |
-| --- | --- |
-| [GyanGrit](https://github.com/TEJSARISA/GyanGrit) | Offline-first AI-powered e-learning platform with React PWA, Express, Prisma, PostgreSQL, Redis, Jitsi live classes, realtime competition flows, and a research/documentation bundle |
-| [User-Centric Mobile Utility App Redesign](https://github.com/TEJSARISA/user-centric-utility-app-redesign) | Product and UX case study focused on simplifying workflows, improving usability, and reducing friction across a mobile experience |
-| [AWS Scalable Infrastructure Automation](https://github.com/TEJSARISA/aws-scalable-infrastructure-automation) | AWS infrastructure automation with EC2, IAM, security groups, high-availability thinking, and infrastructure-as-code practices |
-| [Scalable Web App Deployment](https://github.com/TEJSARISA/scalable-web-app-deployment) | End-to-end deployment patterns for web applications using AWS, CI/CD workflows, and infrastructure-oriented thinking |
-| [CI/CD Pipeline Demo](https://github.com/TEJSARISA/ci-cd-pipeline-demo) | Practical automation patterns for build, test, and deployment pipelines |
+| Project | Stack | Why it matters |
+| --- | --- | --- |
+| [GyanGrit](https://github.com/TEJSARISA/GyanGrit) | React, Vite, Express, Prisma, PostgreSQL, Redis, Socket.IO, Jitsi, Docker | Flagship full-stack project: an offline-first AI-powered e-learning platform with realtime learning flows, live classes, analytics, and strong documentation depth |
+| [AWS Scalable Infrastructure Automation](https://github.com/TEJSARISA/aws-scalable-infrastructure-automation) | AWS, Terraform, Bash, IAM, EC2, Security Groups | Shows infrastructure-as-code thinking, secure AWS setup, automation workflows, and reproducible deployment patterns |
+| [Scalable Web App Deployment](https://github.com/TEJSARISA/scalable-web-app-deployment) | AWS, Terraform, GitHub Actions, CI/CD | Demonstrates production-style deployment architecture, high availability patterns, and infrastructure automation for web systems |
+| [High-Growth Backend Infrastructure](https://github.com/TEJSARISA/high-growth-backend-infrastructure) | AWS, Terraform, CloudFront, RDS, ElastiCache | Positions me as someone who can think about scale, performance, caching, and backend infrastructure for fast-growing systems |
+| [User-Centric Mobile Utility App Redesign](https://github.com/TEJSARISA/user-centric-utility-app-redesign) | Figma, UX Research, Product Design | Adds product and UX depth by showing measurable redesign thinking, simplified workflows, and user-centered decision making |
+| [Linux Automation Toolkit](https://github.com/TEJSARISA/linux-automation-toolkit) | Python, Linux, scripting, automation | Highlights practical scripting and operations automation for system maintenance and repeatable tooling |
 
-## Core Skills
+## Project Positioning
 
-### Cloud and Infrastructure
+### GyanGrit
 
-- AWS, Azure, GCP
-- Terraform, CloudFormation, infrastructure as code
-- Docker, Kubernetes, Docker Compose, Helm
-- IAM, network design, cost optimization, deployment architecture
+- **Summary:** Offline-first AI-powered e-learning platform designed for rural and low-bandwidth learning environments
+- **Tech:** React PWA, Express, Prisma, PostgreSQL, Redis, Socket.IO, Jitsi, FFmpeg, Docker, GitHub Actions
+- **Impact:** Demonstrates end-to-end ownership across frontend, backend, AI, realtime, DevOps, QA, and documentation
+- **Why it matters:** This is the strongest recruiter-facing proof that I can architect and deliver a serious multi-service product
 
-### DevOps and Delivery
+### Cloud and Infrastructure Projects
 
-- GitHub Actions, Jenkins, GitLab CI, Azure Pipelines
-- Automated deployments, release workflows, environment setup
-- Monitoring and operations with tools such as Prometheus, Grafana, ELK, and CloudWatch
+- **Summary:** AWS-focused deployment, infrastructure automation, scalability, and backend architecture projects
+- **Tech:** AWS, Terraform, IAM, EC2, CloudFront, RDS, ElastiCache, GitHub Actions
+- **Impact:** Shows platform thinking, secure environment design, repeatability, and operational awareness
+- **Why it matters:** These projects strengthen my profile for DevOps, cloud, infrastructure, SRE-adjacent, and backend-heavy roles
 
-### Full-Stack and Product Engineering
+### Product and UX Work
 
-- React, Node.js, Express, APIs, database-backed applications
-- PostgreSQL, Prisma, SQL and NoSQL foundations
-- Product design thinking, UX improvement, information architecture, prototyping
+- **Summary:** Conceptual redesign work focused on simplifying workflows and improving usability outcomes
+- **Tech:** Figma, UX research, product strategy, information architecture
+- **Impact:** Adds evidence that I think beyond code and care about the actual user experience
+- **Why it matters:** Recruiters and startups value engineers who can connect technical decisions to user outcomes
 
-### Scripting and Tooling
+### Automation and Systems Tooling
 
-- Python
-- Bash
-- PowerShell
-- Git and GitHub workflows
+- **Summary:** Python and Linux-based automation work for operational efficiency and repeatability
+- **Tech:** Python, Bash, Linux
+- **Impact:** Signals hands-on engineering habits and practical problem solving
+- **Why it matters:** Useful for DevOps, platform engineering, freelance automation work, and backend support tasks
 
-## Highlights
+## GitHub Stats
 
-- Built **GyanGrit**, a portfolio-grade monorepo that combines offline-first UX, AI integration, realtime features, and deployment-ready engineering practices
-- Developed cloud and DevOps projects around scalable AWS infrastructure, CI/CD automation, and deployment workflows
-- Worked on product and UX case-study projects that emphasize measurable usability improvements and cleaner digital experiences
+<div align="center">
 
-## Current Interests
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TEJSARISA&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://streak-stats.demolab.com?user=TEJSARISA&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 
-- Platform engineering and cloud automation
-- AI-assisted product experiences
-- Scalable backend systems
-- Offline-first and low-bandwidth application design
-- Building stronger portfolio and open-source quality repositories
+</div>
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TEJSARISA&theme=github-compact&hide_border=true" alt="Contribution graph" />
+
+</div>
+
+## Certifications and Education
+
+- I have not added certifications or education details here yet because I only want to present **verified and exact information**.
+- Once finalized, this section should include my **top 2-3 strongest certifications** and my **degree / college / graduation year** for stronger internship and recruiter visibility.
+
+## What I Am Open To
+
+- Cloud and DevOps engineering roles
+- Full-stack development opportunities
+- Backend and infrastructure projects
+- Internship, freelance, and remote collaboration opportunities
+- Product-focused engineering work where both technical quality and usability matter
 
 ## Connect With Me
 
 - LinkedIn: [linkedin.com/in/tejsarisa](https://linkedin.com/in/tejsarisa)
 - Portfolio: [tejsarisa.github.io](https://tejsarisa.github.io)
+- GitHub: [github.com/TEJSARISA](https://github.com/TEJSARISA)
 
-## Profile Note
+## Profile Philosophy
 
-This GitHub profile is curated to highlight real projects, real implementation depth, and practical engineering range across cloud, DevOps, full-stack systems, and product-minded software development.
+I want this GitHub profile to communicate one clear message in the first few seconds: I can design infrastructure, automate delivery, and ship serious software projects with strong technical depth and clean presentation.
+
+If you're a recruiter, hiring manager, collaborator, or client, the fastest place to start is **[GyanGrit](https://github.com/TEJSARISA/GyanGrit)**.
