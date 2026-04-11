@@ -1,111 +1,76 @@
-# 👋 Hello! I'm Tej Sarisa
+# Hi, I'm Tej Sarisa
 
-**Cloud Architect & DevOps Engineer | AWS/Azure Specialist | Product Designer | Infrastructure as Code Expert**
+**Cloud & DevOps Engineer | Full-Stack Builder | Product-Focused Problem Solver**
 
----
+I build systems that are reliable in production and useful in the real world, with a focus on cloud infrastructure, deployment automation, full-stack product engineering, and clean user experience. My work sits at the intersection of architecture, DevOps, application development, and product thinking.
 
-## 🚀 About Me
+Based in India, I enjoy turning ambitious ideas into portfolio-grade and deployment-shaped projects across cloud platforms, AI-enabled applications, and scalable web systems.
 
-I'm a full-stack technologist passionate about designing and implementing robust cloud architectures, optimizing infrastructure deployment, and creating intuitive digital experiences. With expertise spanning cloud engineering, DevOps automation, and user-centric product design, I bridge the gap between infrastructure and user experience.
+## What I Focus On
 
-Based in India, I specialize in building scalable, secure, and cost-efficient solutions across AWS, Azure, and GCP platforms.
+- Designing cloud-native and scalable infrastructure on AWS and related platforms
+- Building CI/CD pipelines, deployment automation, and infrastructure-as-code workflows
+- Developing full-stack products with strong backend structure and polished frontend UX
+- Exploring AI-powered applications with practical, grounded implementations
+- Turning rough concepts into recruiter-ready, demo-ready engineering projects
 
----
+## Featured Projects
 
-## 💼 Core Expertise
+| Project | What it shows |
+| --- | --- |
+| [GyanGrit](https://github.com/TEJSARISA/GyanGrit) | Offline-first AI-powered e-learning platform with React PWA, Express, Prisma, PostgreSQL, Redis, Jitsi live classes, realtime competition flows, and a research/documentation bundle |
+| [User-Centric Mobile Utility App Redesign](https://github.com/TEJSARISA/user-centric-utility-app-redesign) | Product and UX case study focused on simplifying workflows, improving usability, and reducing friction across a mobile experience |
+| [AWS Scalable Infrastructure Automation](https://github.com/TEJSARISA/aws-scalable-infrastructure-automation) | AWS infrastructure automation with EC2, IAM, security groups, high-availability thinking, and infrastructure-as-code practices |
+| [Scalable Web App Deployment](https://github.com/TEJSARISA/scalable-web-app-deployment) | End-to-end deployment patterns for web applications using AWS, CI/CD workflows, and infrastructure-oriented thinking |
+| [CI/CD Pipeline Demo](https://github.com/TEJSARISA/ci-cd-pipeline-demo) | Practical automation patterns for build, test, and deployment pipelines |
 
-### Cloud Architecture & Infrastructure
-- **Multi-cloud Design:** AWS, Azure, GCP (multi-tier, serverless, hybrid)
-- **Infrastructure as Code:** Terraform, CloudFormation, ARM Templates, Ansible
-- **Containerization & Orchestration:** Docker, Kubernetes, Docker Compose, Helm
-- **Cloud Security:** IAM policies, encryption, compliance (AWS Security Best Practices)
-- **Cost Optimization:** Resource management, right-sizing, monitoring
+## Core Skills
 
-### DevOps & CI/CD
-- **Pipeline Automation:** GitHub Actions, Jenkins, GitLab CI, Azure Pipelines, ArgoCD
-- **Infrastructure Management:** Automated deployments, blue-green strategies, canary releases
-- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack, CloudWatch, Application Insights
+### Cloud and Infrastructure
 
-### Product Design & UX
-- **Heuristic Evaluation:** Nielsen's 10 Usability Principles
-- **User Research:** Journey mapping, pain point analysis, user testing
-- **Design Thinking:** Information architecture, design systems, metrics-driven design
-- **Prototyping:** High-fidelity designs in Figma with interactive prototypes
+- AWS, Azure, GCP
+- Terraform, CloudFormation, infrastructure as code
+- Docker, Kubernetes, Docker Compose, Helm
+- IAM, network design, cost optimization, deployment architecture
 
-### Development & Scripting
-- **Languages:** Python, Bash, PowerShell
-- **Version Control:** Git, GitHub, GitLab
-- **Database Management:** SQL, NoSQL optimization
+### DevOps and Delivery
 
----
+- GitHub Actions, Jenkins, GitLab CI, Azure Pipelines
+- Automated deployments, release workflows, environment setup
+- Monitoring and operations with tools such as Prometheus, Grafana, ELK, and CloudWatch
 
-## 📊 Key Achievements
+### Full-Stack and Product Engineering
 
-✅ **User-Centric Mobile App Redesign**
-- Reduced task workflows by 57% (7 steps → 3 steps)
-- Improved completion time by 61% (4m 30s → 1m 45s)
-- Increased completion rate from 60% → 88% (+28%)
-- Eliminated critical usability violations
-- [Detailed Case Study](https://github.com/TEJSARISA/user-centric-utility-app-redesign)
+- React, Node.js, Express, APIs, database-backed applications
+- PostgreSQL, Prisma, SQL and NoSQL foundations
+- Product design thinking, UX improvement, information architecture, prototyping
 
-✅ **Cloud Infrastructure Automation**
-- Designed and implemented scalable multi-cloud solutions
-- Automated infrastructure deployment reducing manual efforts by 80%
-- Established CI/CD pipelines reducing deployment time by 70%
+### Scripting and Tooling
 
-✅ **Cost Optimization & Efficiency**
-- Implemented cloud cost monitoring saving 40% on monthly expenses
-- Optimized resource allocation across environments
+- Python
+- Bash
+- PowerShell
+- Git and GitHub workflows
 
----
+## Highlights
 
-## 🛠️ Technical Stack
+- Built **GyanGrit**, a portfolio-grade monorepo that combines offline-first UX, AI integration, realtime features, and deployment-ready engineering practices
+- Developed cloud and DevOps projects around scalable AWS infrastructure, CI/CD automation, and deployment workflows
+- Worked on product and UX case-study projects that emphasize measurable usability improvements and cleaner digital experiences
 
-**Cloud Platforms:** AWS (EC2, S3, Lambda, RDS, CloudWatch), Azure (VMs, App Services, AKS), GCP
+## Current Interests
 
-**Infrastructure & IaC:** Terraform, CloudFormation, ARM Templates, Ansible, Vagrant
+- Platform engineering and cloud automation
+- AI-assisted product experiences
+- Scalable backend systems
+- Offline-first and low-bandwidth application design
+- Building stronger portfolio and open-source quality repositories
 
-**Containers:** Docker, Kubernetes, Docker Compose, Helm
+## Connect With Me
 
-**CI/CD:** GitHub Actions, Jenkins, GitLab CI, Azure Pipelines, ArgoCD
+- LinkedIn: [linkedin.com/in/tejsarisa](https://linkedin.com/in/tejsarisa)
+- Portfolio: [tejsarisa.github.io](https://tejsarisa.github.io)
 
-**Monitoring:** Prometheus, Grafana, ELK Stack, CloudWatch, Application Insights
+## Profile Note
 
-**Scripting:** Bash, Python, PowerShell
-
-**Design Tools:** Figma, FigJam, Miro
-
----
-
-## 📚 Recent Projects
-
-1. **[User-Centric Mobile Utility App Redesign](https://github.com/TEJSARISA/user-centric-utility-app-redesign)**
-   - Conceptual UX/product design case study with comprehensive research, heuristic evaluation, and metrics-driven outcomes
-
-2. **CI/CD Pipeline Automation**
-   - GitHub Actions workflows for automated testing, building, and deployment
-
-3. **Multi-cloud Infrastructure**
-   - Terraform-based infrastructure spanning AWS and Azure with disaster recovery
-
----
-
-## 🎯 Professional Philosophy
-
-- **User-First Approach:** Every solution starts with understanding user needs
-- **Metrics-Driven:** Decisions backed by data and measurable outcomes
-- **Scalability First:** Design systems that grow with business needs
-- **Security & Compliance:** Build with security as a foundational principle
-- **Continuous Improvement:** Regular optimization and refinement
-
----
-
-## 📞 Let's Connect
-
-- 💼 LinkedIn: [linkedin.com/in/tejsarisa](https://linkedin.com/in/tejsarisa)
-- 🌐 Portfolio: [tejsarisa.github.io](https://tejsarisa.github.io)
-- 📧 Email: Available on LinkedIn
-
----
-
-**💡 Always open to collaborating on cloud architecture, DevOps automation, and product design challenges!**
+This GitHub profile is curated to highlight real projects, real implementation depth, and practical engineering range across cloud, DevOps, full-stack systems, and product-minded software development.
