@@ -2,9 +2,9 @@
 
 # Tej Sarisa
 
-### Backend AI Engineer | AI Evaluation Contributor | Python | FastAPI | LLM Evaluation
+Backend AI Engineer | Python & FastAPI | LLM Evaluation | Coding Benchmarks
 
-I build backend APIs and AI-powered applications, and contribute to coding benchmarks through collaborative repository development.
+I build backend APIs and AI-powered applications, and contribute to coding benchmarks through collaborative repository development. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tej%20Sarisa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tejsarisa)
 
